@@ -52,5 +52,3 @@ maxProfit:
         bgeu   a2, s2, loop # pricesSize <= i
 exit:
     ret
-Footer
-© 2022 GitHub, Inc.
